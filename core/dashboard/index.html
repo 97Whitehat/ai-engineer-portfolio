@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gestoría López — Panel de Control</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="layout">
+
+  <!-- SIDEBAR -->
+  <div id="sidebar-container"></div>
+
+  <!-- MAIN -->
+  <div class="main">
+
+    <!-- TOPBAR -->
+    <div class="topbar">
+      <p class="topbar-title">Alertas fiscales</p>
+      <div class="topbar-date">
+        <i class="ti ti-calendar"></i>
+        <span id="topbar-fecha">—</span>
+      </div>
+    </div>
+
+    <!-- CONTENT -->
+    <div class="content">
+      <div id="kpis-container"></div>
+      <div id="alertas-container"></div>
+      <div id="clientes-container"></div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      <span><i class="ti ti-file-text"></i> Log guardado en gestor.log</span>
+      <span id="footer-fecha">—</span>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  // Carga los componentes HTML de forma dinámica
+  async function loadComponent(containerId, path) {
+    const response = await fetch(path);
+    const html = await response.text();
+    document.getElementById(containerId).innerHTML = html;
+  }
+
+  async function init() {
+    await Promise.all([
+      loadComponent('sidebar-container', 'html/header.html'),
+      loadComponent('kpis-container',    'html/kpis.html'),
+      loadComponent('alertas-container', 'html/alertas.html'),
+      loadComponent('clientes-container','html/clientes.html'),
+    ]);
+
+    // Importamos el JS después de que el DOM esté listo
+    const { cargarDatos } = await import('./js/dashboard.js');
+    cargarDatos();
+  }
+
+  init();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "fecha": "29/05/2026",
+  "total": 10,
+  "alertas": [
+    {
+      "cliente": "Restaurante El Patio",
+      "obligacion": "IVA 2T 2026",
+      "dias_restantes": 5,
+      "fecha_vencimiento": "03/06/2026"
+    },
+    {
+      "cliente": "Fontanería Martínez",
+      "obligacion": "IVA 2T 2026",
+      "dias_restantes": 5,
+      "fecha_vencimiento": "03/06/2026"
+    },
+    {
+      "cliente": "Academia de Inglés Torres",
+      "obligacion": "IVA 2T 2026",
+      "dias_restantes": 5,
+      "fecha_vencimiento": "03/06/2026"
+    },
+    {
+      "cliente": "Transporte López e Hijos",
+      "obligacion": "IVA 2T 2026",
+      "dias_restantes": 5,
+      "fecha_vencimiento": "03/06/2026"
+    },
+    {
+      "cliente": "Restaurante El Patio",
+      "obligacion": "IRPF 2T 2026",
+      "dias_restantes": 15,
+      "fecha_vencimiento": "13/06/2026"
+    },
+    {
+      "cliente": "Fontanería Martínez",
+      "obligacion": "IRPF 2T 2026",
+      "dias_restantes": 15,
+      "fecha_vencimiento": "13/06/2026"
+    },
+    {
+      "cliente": "Clínica Dental Ruiz",
+      "obligacion": "IRPF 2T 2026",
+      "dias_restantes": 15,
+      "fecha_vencimiento": "13/06/2026"
+    },
+    {
+      "cliente": "Transporte López e Hijos",
+      "obligacion": "IRPF 2T 2026",
+      "dias_restantes": 15,
+      "fecha_vencimiento": "13/06/2026"
+    },
+    {
+      "cliente": "Fontanería Martínez",
+      "obligacion": "Pago fraccionado IS",
+      "dias_restantes": 30,
+      "fecha_vencimiento": "28/06/2026"
+    },
+    {
+      "cliente": "Clínica Dental Ruiz",
+      "obligacion": "Pago fraccionado IS",
+      "dias_restantes": 30,
+      "fecha_vencimiento": "28/06/2026"
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+2026-05-29 12:09:52,538 - __main__ - INFO - Reporte exportado a reporte.json
+2026-05-29 12:11:54,007 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 — DEMO - Restaurante El Patio
+2026-05-29 12:11:54,007 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 — DEMO - Fontanería Martínez
+2026-05-29 12:11:54,007 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 — DEMO - Academia de Inglés Torres
+2026-05-29 12:11:54,007 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 — DEMO - Transporte López e Hijos
+2026-05-29 12:11:54,009 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 — DEMO - Restaurante El Patio
+2026-05-29 12:11:54,009 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 — DEMO - Fontanería Martínez
+2026-05-29 12:11:54,009 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 — DEMO - Clínica Dental Ruiz
+2026-05-29 12:11:54,009 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 — DEMO - Transporte López e Hijos
+2026-05-29 12:11:54,009 - __main__ - INFO - Alerta generada - 30 días - Pago fraccionado IS — DEMO - Fontanería Martínez
+2026-05-29 12:11:54,009 - __main__ - INFO - Alerta generada - 30 días - Pago fraccionado IS — DEMO - Clínica Dental Ruiz
+2026-05-29 12:11:54,009 - __main__ - INFO - Reporte exportado a reporte.json
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:09:56,791 - __main__ - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:09:56,792 - __main__ - INFO - Reporte exportado a reporte.json
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:37:02,298 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,299 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:37:02,302 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:39:55,641 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:39:55,642 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,642 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:39:55,643 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:39:55,644 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:39:55,646 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:47:55,881 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,881 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,881 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:47:55,882 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:47:55,883 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:47:55,885 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:47:55,886 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:47:55,887 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:47:55,887 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:47:55,887 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:48:29,518 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:48:29,520 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:48:29,521 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,526 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:48:29,530 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:19,703 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:53:19,703 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:19,714 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:19,716 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,716 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,716 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:19,716 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,716 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,717 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,717 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:19,717 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,717 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:19,717 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:19,718 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:19,720 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,720 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,721 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:19,721 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,722 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:19,722 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:19,722 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:19,722 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:19,722 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:19,722 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:23,913 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:53:23,918 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:53:23,924 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,924 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:23,925 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:23,927 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:23,928 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,928 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,928 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:23,928 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,929 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,929 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,929 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:23,929 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,929 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:23,929 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:23,931 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:29,121 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:53:29,126 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:53:29,132 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,132 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,132 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:29,132 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,133 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,133 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,133 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:29,133 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,133 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:29,133 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:29,134 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,134 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:29,135 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:29,136 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:29,138 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:46,985 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:53:46,989 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:53:46,995 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:46,995 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:46,995 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:46,995 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:46,996 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:46,996 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:46,996 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:46,996 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:46,996 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:46,996 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:46,997 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:46,998 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:46,999 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:53:47,000 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:53:47,001 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:29,420 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:54:29,424 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:54:29,425 - alertas - ERROR - Error en funcion_que_falla: fallo deliberado
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\test_alertas.py", line 35, in funcion_que_falla
+    raise ValueError("fallo deliberado")
+ValueError: fallo deliberado
+2026-05-29 13:54:29,432 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,432 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,432 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:29,432 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,433 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,433 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,433 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:29,433 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,433 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:29,433 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:29,434 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,434 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,434 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:29,434 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,434 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,434 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,435 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:29,435 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,435 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:29,435 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:29,436 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:29,437 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,437 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,437 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:29,437 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,438 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:29,438 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:29,438 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:29,438 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:29,438 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:29,438 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:36,542 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:54:36,551 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:54:36,552 - alertas - ERROR - Error en funcion_que_falla: fallo deliberado
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\test_alertas.py", line 35, in funcion_que_falla
+    raise ValueError("fallo deliberado")
+ValueError: fallo deliberado
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:36,559 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:36,560 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,560 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,560 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:36,561 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:54:36,563 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,563 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:54:36,564 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:56,166 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:55:56,166 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:55:56,170 - alertas - ERROR - Error en funcion_que_falla: fallo deliberado
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\test_alertas.py", line 35, in funcion_que_falla
+    raise ValueError("fallo deliberado")
+ValueError: fallo deliberado
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:56,173 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:56,178 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:56,179 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,179 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,179 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:56,179 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,179 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,179 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,180 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:56,180 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,180 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:56,180 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:56,181 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:59,882 - alertas - ERROR - Error en generar_alertas: unsupported operand type(s) for -: 'str' and 'datetime.date'
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 118, in generar_alertas
+    dias = self.calcular_dias_restantes(fecha_fiscal["fecha"])
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 105, in calcular_dias_restantes
+    dias = (fecha - date.today()).days
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.date'
+2026-05-29 13:55:59,886 - alertas - WARNING - Fecha vencida ignorada: La fecha 2026-05-19 ya ha vencido - hace 10 días
+2026-05-29 13:55:59,887 - alertas - ERROR - Error en funcion_que_falla: fallo deliberado
+Traceback (most recent call last):
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\alertas.py", line 52, in wrapper
+    return func(*args, **kwargs)
+  File "A:\IA ENGINEER\ai-engineer-portfolio\gestoria-lopez\p1-alertas-automaticas\test_alertas.py", line 35, in funcion_que_falla
+    raise ValueError("fallo deliberado")
+ValueError: fallo deliberado
+2026-05-29 13:55:59,894 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,894 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:59,895 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:59,897 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:59,898 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Academia de Inglés Torres
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 5 días - IVA 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Restaurante El Patio
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Fontanería Martínez
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Clínica Dental Ruiz
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 15 días - IRPF 2T 2026 - Transporte López e Hijos
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Fontanería Martínez
+2026-05-29 13:55:59,900 - alertas - INFO - Alerta generada - 30 días - Pago fraccionado IS - Clínica Dental Ruiz
