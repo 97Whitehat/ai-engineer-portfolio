@@ -1,10 +1,23 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Variables de entorno — nunca subir a GitHub
+.env
 
-# Virtual environments
-.venv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+
+# Entornos virtuales
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini

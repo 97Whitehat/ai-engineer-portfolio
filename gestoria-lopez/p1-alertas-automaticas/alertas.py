@@ -147,6 +147,23 @@ class SistemaAlertas:
         
         return alertas
     
+
+
+# ── FASTAPI ENDPOINT — P2 ─────────────────────────────────
+# Cuando integremos FastAPI en el P2, aquí irá el endpoint:
+#
+# @app.post("/api/alertas/enviar")
+# async def endpoint_enviar_alertas():
+#     sistema = SistemaAlertas()
+#     alertas = sistema.generar_alertas()
+#     resultado = enviar_alertas_masivo(alertas, EMAILS_CLIENTES)
+#     return {"status": "ok", "enviados": resultado["enviados"]}
+#
+# El dashboard llamará a este endpoint desde el botón
+# "Enviar alertas" en js/dashboard.js
+
+
+    
 # ------ MAIN ------
 # 3 partes: 
 #   1. Cabecera 

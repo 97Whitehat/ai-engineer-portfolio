@@ -11,6 +11,14 @@ CLIENTES = [
     {"nombre": "Transporte López e Hijos",   "obligaciones": ["IVA", "IRPF"]},
 ]
 
+EMAILS_CLIENTES = {
+    "Restaurante El Patio":      'gabimori97@gmail.com',
+    "Fontanería Martínez":       'gabimori97@gmail.com',
+    "Academia de Inglés Torres": 'gabimori97@gmail.com',
+    "Clínica Dental Ruiz":       'gabimori97@gmail.com',
+    "Transporte López e Hijos":  'gabimori97@gmail.com'
+}
+
 # -------CALENDARIO FISCAL ---------
 # Lista de fechas fiscales reales del calendario español.
 # Cada entrada propia tendrá:

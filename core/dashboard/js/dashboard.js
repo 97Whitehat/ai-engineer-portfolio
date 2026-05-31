@@ -152,6 +152,13 @@ function renderClientes() {
     }).join('');
 }
 
+// ── EMAIL SENDER ───────────────────────────────────────────
+// Pendiente de implementar en P2 con FastAPI
+// El botón llama a POST /api/alertas/enviar cuando esté disponible
+function enviarAlertas() {
+  alert('🚧 Funcionalidad disponible en P2 — FastAPI en desarrollo');
+}
+
 // ── FOOTER ─────────────────────────────────────────────
 function renderFooter() {
   const el = document.getElementById('footer-fecha');
